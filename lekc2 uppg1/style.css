@@ -1,0 +1,30 @@
+h1{
+    color:orange;
+    background-color:black;
+}
+p{
+    color:orange;
+    background-color:black;
+}
+
+body{
+    background-color:whitesmoke;
+}
+
+a:hover{
+    color:white;
+    background-color:green;
+    text-decoration: none;
+}
+
+a{
+  display: inline-block;
+  background-color:white;
+  color: black;
+  padding: 8px 20px;
+  border-radius: 999px;
+  box-shadow: 0 4px 12px;
+}
+a:link{
+   text-decoration: none;
+}
